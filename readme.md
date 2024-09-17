@@ -18,7 +18,7 @@ Frotnend do projeto In Orbit gerenciador de metas</p>
 
 ## 🖼️ Backend
 
-O frontend desta aplicação encontra-se no repositório: 
+O backend desta aplicação encontra-se no repositório: 
 - [in.orbit-web](https://github.com/matheustorresdev97/in.orbit-api)
 
 ## 🦾 Tecnologias
